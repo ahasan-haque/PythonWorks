@@ -1,0 +1,3 @@
+#! usr/bin/env python
+in = input("Press a Character:")
+print "U press "+in
