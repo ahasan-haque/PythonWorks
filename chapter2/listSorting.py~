@@ -15,4 +15,5 @@ print y
 #to sort decendingly
 lst = [3,4,1,2]
 lst.sort(reverse= True)
+print lst
 

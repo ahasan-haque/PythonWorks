@@ -13,8 +13,6 @@ print lst.pop()
 lst.append(5)
 print lst.pop(0)
 
-#to reverse the list
-lst.reverse()
-lst
+
 
 
